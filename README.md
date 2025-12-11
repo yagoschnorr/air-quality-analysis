@@ -11,8 +11,7 @@ Projeto de Modelagem Estatística desenvolvido para análise de dados de poluiç
 ## 📌 Sobre o Projeto
 
 Este projeto aplica técnicas de aprendizado de máquina e análise estatística para:
-- Prever níveis de concentração de PM2.5 (material particulado fino)
-- Classificar a qualidade do ar em categorias de risco
+- Desenvolver modelos para verificar relações entre variáveis
 - Identificar fatores que influenciam a poluição atmosférica
 - Avaliar o impacto de condições meteorológicas na dispersão de poluentes
 
